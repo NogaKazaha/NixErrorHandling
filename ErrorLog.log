@@ -1,0 +1,52 @@
+Warning: Undefined variable $e in C:\xampp\htdocs\nix\ErrorHandler.php at line 62 Time: 2021-12-05 13:22:33 Stack trace: 
+Array
+(
+    [0] => Array
+        (
+            [file] => C:\xampp\htdocs\nix\ErrorHandler.php
+            [line] => 62
+            [function] => handleErrors
+            [args] => Array
+                (
+                    [0] => 2
+                    [1] => Undefined variable $e
+                    [2] => C:\xampp\htdocs\nix\ErrorHandler.php
+                    [3] => 62
+                )
+
+        )
+
+)
+
+Code: 0 on line 14 in file C:\xampp\htdocs\nix\ExceptionHandler.php Message:  Time: 2021-12-05 13:22:37 Stack trace: 
+Array
+(
+    [0] => Array
+        (
+            [file] => C:\xampp\htdocs\nix\ExceptionHandler.php
+            [line] => 17
+            [function] => errorMessage
+            [class] => ExceptionHandler
+            [object] => ExceptionHandler Object
+                (
+                    [message:protected] => 
+                    [string:Exception:private] => 
+                    [code:protected] => 0
+                    [file:protected] => C:\xampp\htdocs\nix\ExceptionHandler.php
+                    [line:protected] => 14
+                    [trace:Exception:private] => Array
+                        (
+                        )
+
+                    [previous:Exception:private] => 
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
